@@ -1,0 +1,8 @@
+D:\Balta - Fundamentos\Cronometro\Cronometro\bin\Debug\Cronometro.exe.config
+D:\Balta - Fundamentos\Cronometro\Cronometro\bin\Debug\Cronometro.exe
+D:\Balta - Fundamentos\Cronometro\Cronometro\bin\Debug\Cronometro.pdb
+D:\Balta - Fundamentos\Cronometro\Cronometro\obj\Debug\Cronometro.csproj.AssemblyReference.cache
+D:\Balta - Fundamentos\Cronometro\Cronometro\obj\Debug\Cronometro.csproj.SuggestedBindingRedirects.cache
+D:\Balta - Fundamentos\Cronometro\Cronometro\obj\Debug\Cronometro.csproj.CoreCompileInputs.cache
+D:\Balta - Fundamentos\Cronometro\Cronometro\obj\Debug\Cronometro.exe
+D:\Balta - Fundamentos\Cronometro\Cronometro\obj\Debug\Cronometro.pdb
