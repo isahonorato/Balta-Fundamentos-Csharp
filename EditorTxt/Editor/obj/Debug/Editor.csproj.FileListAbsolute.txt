@@ -1,0 +1,8 @@
+D:\Balta - Fundamentos\EditorTxt\Editor\bin\Debug\Editor.exe.config
+D:\Balta - Fundamentos\EditorTxt\Editor\bin\Debug\Editor.exe
+D:\Balta - Fundamentos\EditorTxt\Editor\bin\Debug\Editor.pdb
+D:\Balta - Fundamentos\EditorTxt\Editor\obj\Debug\Editor.csproj.AssemblyReference.cache
+D:\Balta - Fundamentos\EditorTxt\Editor\obj\Debug\Editor.csproj.SuggestedBindingRedirects.cache
+D:\Balta - Fundamentos\EditorTxt\Editor\obj\Debug\Editor.csproj.CoreCompileInputs.cache
+D:\Balta - Fundamentos\EditorTxt\Editor\obj\Debug\Editor.exe
+D:\Balta - Fundamentos\EditorTxt\Editor\obj\Debug\Editor.pdb
