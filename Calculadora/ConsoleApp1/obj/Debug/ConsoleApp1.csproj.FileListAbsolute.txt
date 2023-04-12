@@ -1,0 +1,8 @@
+D:\Balta - Fundamentos\Calculadora\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Balta - Fundamentos\Calculadora\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Balta - Fundamentos\Calculadora\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Balta - Fundamentos\Calculadora\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\Balta - Fundamentos\Calculadora\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+D:\Balta - Fundamentos\Calculadora\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Balta - Fundamentos\Calculadora\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Balta - Fundamentos\Calculadora\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
