@@ -7,5 +7,5 @@ O projeto contém duas quatro pastas:
 
 - [Calculadora](https://github.com/isahonorato/Balta-Fundamentos-Csharp/tree/main/Calculadora/ConsoleApp1) 
 - [Cronômetro](https://github.com/isahonorato/Balta-Fundamentos-Csharp/tree/main/Cronometro/Cronometro) 
-- [Editor de Textos](https://github.com/isahonorato) 
+- [Editor de Textos](https://github.com/isahonorato/Balta-Fundamentos-Csharp/tree/main/EditorTxt/Editor) 
 - [Editor de HTML](https://github.com/isahonorato) 
