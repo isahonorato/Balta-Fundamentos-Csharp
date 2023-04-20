@@ -1,0 +1,8 @@
+D:\Balta - Fundamentos\Strings\ManipulandoStrings\obj\Debug\ManipulandoStrings.csproj.AssemblyReference.cache
+D:\Balta - Fundamentos\Strings\ManipulandoStrings\obj\Debug\ManipulandoStrings.csproj.SuggestedBindingRedirects.cache
+D:\Balta - Fundamentos\Strings\ManipulandoStrings\obj\Debug\ManipulandoStrings.csproj.CoreCompileInputs.cache
+D:\Balta - Fundamentos\Strings\ManipulandoStrings\bin\Debug\ManipulandoStrings.exe.config
+D:\Balta - Fundamentos\Strings\ManipulandoStrings\bin\Debug\ManipulandoStrings.exe
+D:\Balta - Fundamentos\Strings\ManipulandoStrings\bin\Debug\ManipulandoStrings.pdb
+D:\Balta - Fundamentos\Strings\ManipulandoStrings\obj\Debug\ManipulandoStrings.exe
+D:\Balta - Fundamentos\Strings\ManipulandoStrings\obj\Debug\ManipulandoStrings.pdb

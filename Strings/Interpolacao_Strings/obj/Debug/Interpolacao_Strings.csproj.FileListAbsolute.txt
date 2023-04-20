@@ -1,0 +1,8 @@
+D:\Balta - Fundamentos\Strings\Interpolacao_Strings\bin\Debug\Interpolacao_Strings.exe.config
+D:\Balta - Fundamentos\Strings\Interpolacao_Strings\bin\Debug\Interpolacao_Strings.exe
+D:\Balta - Fundamentos\Strings\Interpolacao_Strings\bin\Debug\Interpolacao_Strings.pdb
+D:\Balta - Fundamentos\Strings\Interpolacao_Strings\obj\Debug\Interpolacao_Strings.csproj.AssemblyReference.cache
+D:\Balta - Fundamentos\Strings\Interpolacao_Strings\obj\Debug\Interpolacao_Strings.csproj.SuggestedBindingRedirects.cache
+D:\Balta - Fundamentos\Strings\Interpolacao_Strings\obj\Debug\Interpolacao_Strings.csproj.CoreCompileInputs.cache
+D:\Balta - Fundamentos\Strings\Interpolacao_Strings\obj\Debug\Interpolacao_Strings.exe
+D:\Balta - Fundamentos\Strings\Interpolacao_Strings\obj\Debug\Interpolacao_Strings.pdb

@@ -1,0 +1,16 @@
+D:\Balta - Fundamentos\Strings\Editor HTML\obj\Debug\Editor HTML.csproj.AssemblyReference.cache
+D:\Balta - Fundamentos\Strings\Editor HTML\obj\Debug\Editor HTML.csproj.SuggestedBindingRedirects.cache
+D:\Balta - Fundamentos\Strings\Editor HTML\obj\Debug\Editor HTML.csproj.CoreCompileInputs.cache
+D:\Balta - Fundamentos\Strings\Editor HTML\bin\Debug\Editor HTML.exe.config
+D:\Balta - Fundamentos\Strings\Editor HTML\bin\Debug\Editor HTML.exe
+D:\Balta - Fundamentos\Strings\Editor HTML\bin\Debug\Editor HTML.pdb
+D:\Balta - Fundamentos\Strings\Editor HTML\obj\Debug\Editor HTML.exe
+D:\Balta - Fundamentos\Strings\Editor HTML\obj\Debug\Editor HTML.pdb
+D:\Balta - Fundamentos\Editor HTML\bin\Debug\Editor HTML.exe.config
+D:\Balta - Fundamentos\Editor HTML\bin\Debug\Editor HTML.exe
+D:\Balta - Fundamentos\Editor HTML\bin\Debug\Editor HTML.pdb
+D:\Balta - Fundamentos\Editor HTML\obj\Debug\Editor HTML.csproj.AssemblyReference.cache
+D:\Balta - Fundamentos\Editor HTML\obj\Debug\Editor HTML.csproj.SuggestedBindingRedirects.cache
+D:\Balta - Fundamentos\Editor HTML\obj\Debug\Editor HTML.csproj.CoreCompileInputs.cache
+D:\Balta - Fundamentos\Editor HTML\obj\Debug\Editor HTML.exe
+D:\Balta - Fundamentos\Editor HTML\obj\Debug\Editor HTML.pdb

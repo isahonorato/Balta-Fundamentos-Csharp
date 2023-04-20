@@ -1,0 +1,8 @@
+D:\Balta - Fundamentos\Strings\Comparacao_Strings\bin\Debug\Comparacao_Strings.exe.config
+D:\Balta - Fundamentos\Strings\Comparacao_Strings\bin\Debug\Comparacao_Strings.exe
+D:\Balta - Fundamentos\Strings\Comparacao_Strings\bin\Debug\Comparacao_Strings.pdb
+D:\Balta - Fundamentos\Strings\Comparacao_Strings\obj\Debug\Comparacao_Strings.csproj.AssemblyReference.cache
+D:\Balta - Fundamentos\Strings\Comparacao_Strings\obj\Debug\Comparacao_Strings.csproj.SuggestedBindingRedirects.cache
+D:\Balta - Fundamentos\Strings\Comparacao_Strings\obj\Debug\Comparacao_Strings.csproj.CoreCompileInputs.cache
+D:\Balta - Fundamentos\Strings\Comparacao_Strings\obj\Debug\Comparacao_Strings.exe
+D:\Balta - Fundamentos\Strings\Comparacao_Strings\obj\Debug\Comparacao_Strings.pdb
