@@ -1,0 +1,8 @@
+D:\Balta - Fundamentos\Arrays\Arrays\bin\Debug\Arrays.exe.config
+D:\Balta - Fundamentos\Arrays\Arrays\bin\Debug\Arrays.exe
+D:\Balta - Fundamentos\Arrays\Arrays\bin\Debug\Arrays.pdb
+D:\Balta - Fundamentos\Arrays\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+D:\Balta - Fundamentos\Arrays\Arrays\obj\Debug\Arrays.csproj.SuggestedBindingRedirects.cache
+D:\Balta - Fundamentos\Arrays\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+D:\Balta - Fundamentos\Arrays\Arrays\obj\Debug\Arrays.exe
+D:\Balta - Fundamentos\Arrays\Arrays\obj\Debug\Arrays.pdb

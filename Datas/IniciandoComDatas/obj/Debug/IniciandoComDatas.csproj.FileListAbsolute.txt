@@ -1,0 +1,8 @@
+D:\Balta - Fundamentos\Datas\IniciandoComDatas\bin\Debug\IniciandoComDatas.exe.config
+D:\Balta - Fundamentos\Datas\IniciandoComDatas\bin\Debug\IniciandoComDatas.exe
+D:\Balta - Fundamentos\Datas\IniciandoComDatas\bin\Debug\IniciandoComDatas.pdb
+D:\Balta - Fundamentos\Datas\IniciandoComDatas\obj\Debug\IniciandoComDatas.csproj.AssemblyReference.cache
+D:\Balta - Fundamentos\Datas\IniciandoComDatas\obj\Debug\IniciandoComDatas.csproj.SuggestedBindingRedirects.cache
+D:\Balta - Fundamentos\Datas\IniciandoComDatas\obj\Debug\IniciandoComDatas.csproj.CoreCompileInputs.cache
+D:\Balta - Fundamentos\Datas\IniciandoComDatas\obj\Debug\IniciandoComDatas.exe
+D:\Balta - Fundamentos\Datas\IniciandoComDatas\obj\Debug\IniciandoComDatas.pdb

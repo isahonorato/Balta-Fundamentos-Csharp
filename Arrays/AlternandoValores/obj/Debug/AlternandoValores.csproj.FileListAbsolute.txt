@@ -1,0 +1,8 @@
+D:\Balta - Fundamentos\Arrays\AlternandoValores\bin\Debug\AlternandoValores.exe.config
+D:\Balta - Fundamentos\Arrays\AlternandoValores\bin\Debug\AlternandoValores.exe
+D:\Balta - Fundamentos\Arrays\AlternandoValores\bin\Debug\AlternandoValores.pdb
+D:\Balta - Fundamentos\Arrays\AlternandoValores\obj\Debug\AlternandoValores.csproj.AssemblyReference.cache
+D:\Balta - Fundamentos\Arrays\AlternandoValores\obj\Debug\AlternandoValores.csproj.SuggestedBindingRedirects.cache
+D:\Balta - Fundamentos\Arrays\AlternandoValores\obj\Debug\AlternandoValores.csproj.CoreCompileInputs.cache
+D:\Balta - Fundamentos\Arrays\AlternandoValores\obj\Debug\AlternandoValores.exe
+D:\Balta - Fundamentos\Arrays\AlternandoValores\obj\Debug\AlternandoValores.pdb

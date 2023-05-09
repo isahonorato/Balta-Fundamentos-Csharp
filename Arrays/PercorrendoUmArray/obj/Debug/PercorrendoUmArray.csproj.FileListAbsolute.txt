@@ -1,0 +1,8 @@
+D:\Balta - Fundamentos\Arrays\PercorrendoUmArray\bin\Debug\PercorrendoUmArray.exe.config
+D:\Balta - Fundamentos\Arrays\PercorrendoUmArray\bin\Debug\PercorrendoUmArray.exe
+D:\Balta - Fundamentos\Arrays\PercorrendoUmArray\bin\Debug\PercorrendoUmArray.pdb
+D:\Balta - Fundamentos\Arrays\PercorrendoUmArray\obj\Debug\PercorrendoUmArray.csproj.AssemblyReference.cache
+D:\Balta - Fundamentos\Arrays\PercorrendoUmArray\obj\Debug\PercorrendoUmArray.csproj.SuggestedBindingRedirects.cache
+D:\Balta - Fundamentos\Arrays\PercorrendoUmArray\obj\Debug\PercorrendoUmArray.csproj.CoreCompileInputs.cache
+D:\Balta - Fundamentos\Arrays\PercorrendoUmArray\obj\Debug\PercorrendoUmArray.exe
+D:\Balta - Fundamentos\Arrays\PercorrendoUmArray\obj\Debug\PercorrendoUmArray.pdb

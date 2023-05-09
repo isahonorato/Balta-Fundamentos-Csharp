@@ -1,0 +1,8 @@
+D:\Balta - Fundamentos\Datas\FormatandoDatas\bin\Debug\FormatandoDatas.exe.config
+D:\Balta - Fundamentos\Datas\FormatandoDatas\bin\Debug\FormatandoDatas.exe
+D:\Balta - Fundamentos\Datas\FormatandoDatas\bin\Debug\FormatandoDatas.pdb
+D:\Balta - Fundamentos\Datas\FormatandoDatas\obj\Debug\FormatandoDatas.csproj.AssemblyReference.cache
+D:\Balta - Fundamentos\Datas\FormatandoDatas\obj\Debug\FormatandoDatas.csproj.SuggestedBindingRedirects.cache
+D:\Balta - Fundamentos\Datas\FormatandoDatas\obj\Debug\FormatandoDatas.csproj.CoreCompileInputs.cache
+D:\Balta - Fundamentos\Datas\FormatandoDatas\obj\Debug\FormatandoDatas.exe
+D:\Balta - Fundamentos\Datas\FormatandoDatas\obj\Debug\FormatandoDatas.pdb

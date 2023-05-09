@@ -1,0 +1,8 @@
+D:\Balta - Fundamentos\Datas\TimeSpan\bin\Debug\TimeSpan.exe.config
+D:\Balta - Fundamentos\Datas\TimeSpan\bin\Debug\TimeSpan.exe
+D:\Balta - Fundamentos\Datas\TimeSpan\bin\Debug\TimeSpan.pdb
+D:\Balta - Fundamentos\Datas\TimeSpan\obj\Debug\TimeSpan.csproj.AssemblyReference.cache
+D:\Balta - Fundamentos\Datas\TimeSpan\obj\Debug\TimeSpan.csproj.SuggestedBindingRedirects.cache
+D:\Balta - Fundamentos\Datas\TimeSpan\obj\Debug\TimeSpan.csproj.CoreCompileInputs.cache
+D:\Balta - Fundamentos\Datas\TimeSpan\obj\Debug\TimeSpan.exe
+D:\Balta - Fundamentos\Datas\TimeSpan\obj\Debug\TimeSpan.pdb

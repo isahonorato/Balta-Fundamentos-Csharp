@@ -1,0 +1,8 @@
+D:\Balta - Fundamentos\Exceptions\Exceptions\bin\Debug\Exceptions.exe.config
+D:\Balta - Fundamentos\Exceptions\Exceptions\bin\Debug\Exceptions.exe
+D:\Balta - Fundamentos\Exceptions\Exceptions\bin\Debug\Exceptions.pdb
+D:\Balta - Fundamentos\Exceptions\Exceptions\obj\Debug\Exceptions.csproj.AssemblyReference.cache
+D:\Balta - Fundamentos\Exceptions\Exceptions\obj\Debug\Exceptions.csproj.SuggestedBindingRedirects.cache
+D:\Balta - Fundamentos\Exceptions\Exceptions\obj\Debug\Exceptions.csproj.CoreCompileInputs.cache
+D:\Balta - Fundamentos\Exceptions\Exceptions\obj\Debug\Exceptions.exe
+D:\Balta - Fundamentos\Exceptions\Exceptions\obj\Debug\Exceptions.pdb

@@ -1,0 +1,8 @@
+D:\Balta - Fundamentos\Moedas\TipoParaMoedas\bin\Debug\TipoParaMoedas.exe.config
+D:\Balta - Fundamentos\Moedas\TipoParaMoedas\bin\Debug\TipoParaMoedas.exe
+D:\Balta - Fundamentos\Moedas\TipoParaMoedas\bin\Debug\TipoParaMoedas.pdb
+D:\Balta - Fundamentos\Moedas\TipoParaMoedas\obj\Debug\TipoParaMoedas.csproj.AssemblyReference.cache
+D:\Balta - Fundamentos\Moedas\TipoParaMoedas\obj\Debug\TipoParaMoedas.csproj.SuggestedBindingRedirects.cache
+D:\Balta - Fundamentos\Moedas\TipoParaMoedas\obj\Debug\TipoParaMoedas.csproj.CoreCompileInputs.cache
+D:\Balta - Fundamentos\Moedas\TipoParaMoedas\obj\Debug\TipoParaMoedas.exe
+D:\Balta - Fundamentos\Moedas\TipoParaMoedas\obj\Debug\TipoParaMoedas.pdb

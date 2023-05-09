@@ -1,0 +1,8 @@
+D:\Balta - Fundamentos\Datas\TimeZone\bin\Debug\TimeZone.exe.config
+D:\Balta - Fundamentos\Datas\TimeZone\bin\Debug\TimeZone.exe
+D:\Balta - Fundamentos\Datas\TimeZone\bin\Debug\TimeZone.pdb
+D:\Balta - Fundamentos\Datas\TimeZone\obj\Debug\TimeZone.csproj.AssemblyReference.cache
+D:\Balta - Fundamentos\Datas\TimeZone\obj\Debug\TimeZone.csproj.SuggestedBindingRedirects.cache
+D:\Balta - Fundamentos\Datas\TimeZone\obj\Debug\TimeZone.csproj.CoreCompileInputs.cache
+D:\Balta - Fundamentos\Datas\TimeZone\obj\Debug\TimeZone.exe
+D:\Balta - Fundamentos\Datas\TimeZone\obj\Debug\TimeZone.pdb

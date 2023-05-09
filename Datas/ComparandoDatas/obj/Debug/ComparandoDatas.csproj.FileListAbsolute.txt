@@ -1,0 +1,8 @@
+D:\Balta - Fundamentos\Datas\ComparandoDatas\bin\Debug\ComparandoDatas.exe.config
+D:\Balta - Fundamentos\Datas\ComparandoDatas\bin\Debug\ComparandoDatas.exe
+D:\Balta - Fundamentos\Datas\ComparandoDatas\bin\Debug\ComparandoDatas.pdb
+D:\Balta - Fundamentos\Datas\ComparandoDatas\obj\Debug\ComparandoDatas.csproj.AssemblyReference.cache
+D:\Balta - Fundamentos\Datas\ComparandoDatas\obj\Debug\ComparandoDatas.csproj.SuggestedBindingRedirects.cache
+D:\Balta - Fundamentos\Datas\ComparandoDatas\obj\Debug\ComparandoDatas.csproj.CoreCompileInputs.cache
+D:\Balta - Fundamentos\Datas\ComparandoDatas\obj\Debug\ComparandoDatas.exe
+D:\Balta - Fundamentos\Datas\ComparandoDatas\obj\Debug\ComparandoDatas.pdb
